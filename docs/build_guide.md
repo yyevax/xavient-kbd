@@ -2,7 +2,7 @@
 
 # Building Xavien Keyboard
 <div align="center">
-    <img alt="xavient image" width="100%" src="./img/xavient_flat.jpg">
+    <img alt="xavient image" width="100%" src="./img/xavient_flat.JPG">
 </div>
 
 
