@@ -4,6 +4,8 @@
 <div align="center">
     <img alt="xavient image" width="100%" src="./img/xavient-build.jpg">
 </div>
+
+
 ## Components
 
 To build this keyboard you need the following materials
