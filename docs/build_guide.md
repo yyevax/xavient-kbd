@@ -11,7 +11,7 @@
 To build this keyboard you need the following materials
 
 | Name                        | Count    | Remarks                                                       | Links                             |
-| :-------------------------- | :------- | :------------------------------------------------- |          |                                   |
+| :-------------------------- | :------- | :------------------------------------------------------------ |                                   |
 | PCB                         | 1 set    |                                                               | [here](https://www.aliexpress.com)|
 | Case                        | 1 set    | 3D printed with FDM or Resin                                  | [here](https://www.aliexpress.com)|
 | Nice!View Displays          | 2 set    | Required for Case with Display Hole                           | [here](https://www.aliexpress.com)|
