@@ -22,6 +22,17 @@ The placement of the keys for this keyboard are loosely based on both the Corne 
 
 <img alt="keyboard layouts" width="100%" src="./docs/img/layout.png">
 
+# Goal
+The goal for this keyboard is to make a thin keyboard without sacrificing repairability or upgradablility. Taking inspiration from the Corne-ish Zen build but with hotswappable components.
+
+# Features
+- Replaceable Displays and Controllers
+- Multi Switch Compatibility
+- Hot-Swappable Sockets
+- Two Battery Slot for each slot
+- Future expansion to a Trackpoint (Will forgo a Battery Slot)
+
+
 # Backstory
 When I started using the Swoop Keyboard, I immediately knew that I wanted to go for a low profile version. This led me to create my first custom design based on the Swoop Keyboard by altering the pinky column stagger and adding underglow RGB. I called it the Sweet-Corne. 
 
@@ -31,7 +42,7 @@ When I started using the Swoop Keyboard, I immediately knew that I wanted to go 
     <p>uses QMK firmware</p>
 </div>
 
-This build is about 8 mm thin but forgoing the RGB and going wireless made it even thinner at 6.5 mm.
+This build is about 8 mm thin but forgoing the RGB and going wireless made it even thinner at 6.5 mm. The issue however is the controller stack where in the battery is sandwiched between the pcb and mcu. This is not really an issue for most since a 110mah battery is more than enough and it does not require a case. But for me, this makes the stack thicker, epecially when you plan to add displays for the keyboard. This pointed me to use the Seeed Xiao for a new set of design for my goals of making a thin keyboard. But initial testing of the designs pointed an issue 
 
 
 
