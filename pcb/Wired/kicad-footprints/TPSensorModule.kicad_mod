@@ -1,0 +1,139 @@
+(footprint "TPSensorModule"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "U8"
+		(at -0.55 16.96 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "c6b85e85-30eb-4776-943c-7b7aa7ff96a7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Hole"
+		(at -0.55 19.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "f95b4163-474c-4503-b084-00f0bf2ed293")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "TPS42:TPSensorModule"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f0cd7055-e573-458b-ad45-c7fa02a673ae")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8c622c04-71af-4a2f-9cef-c792007af492")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e7ff559a-2602-4462-828e-c47931d609e4")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "LCSC" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d9248e90-ad7f-4032-a2ca-736586320b76")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_circle
+		(center 0 0)
+		(end 3.599999 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill none)
+		(layer "Edge.Cuts")
+		(uuid "15b3737b-cb66-4ccb-b9dd-a4ef1cd2c8ad")
+	)
+	(fp_poly
+		(pts
+			(xy 4.6 -6.6) (xy 11.6 -6.6) (xy 11.6 6.6) (xy 4.6 6.6) (xy 4.6 11.5) (xy -7.7 11.5) (xy -7.7 -11.5)
+			(xy 4.6 -11.5)
+		)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill none)
+		(layer "User.2")
+		(uuid "2e349ca5-6f3e-4a4a-b576-b71598bdbaa7")
+	)
+	(fp_text user "${REFERENCE}"
+		(at -0.55 22.04 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "fcd962a0-9d46-4f56-8f1c-e7c9095467ff")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "" thru_hole circle
+		(at 0 -9.499999 90)
+		(size 2.7 2.7)
+		(drill 2.1)
+		(layers "*.Cu" "*.Mask" "Dwgs.User")
+		(remove_unused_layers yes)
+		(keep_end_layers yes)
+		(clearance 0.3)
+		(uuid "0dff5a8c-0d7d-4b47-81e0-dc493af43be9")
+	)
+	(pad "" thru_hole circle
+		(at 0 9.499999 90)
+		(size 2.7 2.7)
+		(drill 2.1)
+		(layers "*.Cu" "*.Mask" "Dwgs.User")
+		(remove_unused_layers yes)
+		(keep_end_layers yes)
+		(clearance 0.3)
+		(uuid "4b71bff9-872c-4c71-baac-8ad182f0a954")
+	)
+)

@@ -1,0 +1,131 @@
+(footprint "Breakaway_Tabs_Open"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "BT3"
+		(at 0.009192 -1.451605 180)
+		(layer "Dwgs.User")
+		(uuid "170f8c9d-47cb-4d71-85d0-154fdf87585e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" ""
+		(at 0.000006 0.762 180)
+		(layer "Dwgs.User")
+		(hide yes)
+		(uuid "4c3ca52b-d1c9-42d6-a168-a9285c3ea4f2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "09fb7c3e-b851-49b1-8936-573bc6340ea4")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "dd4d7ef8-8d12-4651-b180-e5cbc83be1d7")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a94029ba-9256-449f-ab3b-0a93007c7900")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -3.000003 0.200001)
+		(end 2.999996 0.199995)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "6b5257d8-ff4d-4102-a5f1-5ecf8a0dea8b")
+	)
+	(fp_line
+		(start -2.999996 -0.199995)
+		(end 3.000003 -0.200001)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "4cdf01fd-aeaa-4a62-88e1-853c5b2d6e09")
+	)
+	(pad "" np_thru_hole circle
+		(at -2.374999 0.000002)
+		(size 0.3 0.3)
+		(drill 0.3)
+		(layers "F&B.Cu" "*.Mask")
+		(uuid "ca85106c-7cd7-4eb4-93bd-8da3a42353d9")
+	)
+	(pad "" np_thru_hole circle
+		(at 0 0)
+		(size 0.3 0.3)
+		(drill 0.3)
+		(layers "F&B.Cu" "*.Mask")
+		(uuid "ee02e4ae-3ba8-406b-837e-ac2032fec6bb")
+	)
+	(pad "" np_thru_hole circle
+		(at 0.59 0)
+		(size 0.3 0.3)
+		(drill 0.3)
+		(layers "F&B.Cu" "*.Mask")
+		(uuid "9088f81e-9c66-41e4-8e0d-e6969d974e81")
+	)
+	(pad "" np_thru_hole circle
+		(at 1.1875 0)
+		(size 0.3 0.3)
+		(drill 0.3)
+		(layers "F&B.Cu" "*.Mask")
+		(uuid "df37f94b-00aa-44fe-89ea-0edab406b8fe")
+	)
+	(pad "" np_thru_hole circle
+		(at 1.78125 -0.000003)
+		(size 0.3 0.3)
+		(drill 0.3)
+		(layers "F&B.Cu" "*.Mask")
+		(uuid "2d9d874c-9733-477b-bc89-da30d3acb23f")
+	)
+	(pad "" np_thru_hole circle
+		(at 2.374999 -0.000002)
+		(size 0.3 0.3)
+		(drill 0.3)
+		(layers "F&B.Cu" "*.Mask")
+		(uuid "7a9be163-1196-4daa-97d7-2f5d7cbda1b5")
+	)
+)
