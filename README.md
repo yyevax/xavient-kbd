@@ -1,4 +1,4 @@
-<divgit align="center">
+<div align="center">
     <h1>XAVIENT Keyboard</h1> 
     <img alt="xavient keyboard" width="100%" src="./docs/img/xavient.png">
     <h4>An open-sourced split ergonomic keyboard focusing on repairability and sleek thin design.</h4>
