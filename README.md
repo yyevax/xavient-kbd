@@ -75,9 +75,12 @@ Instead of pins or directly soldering the microcontroller, mill max sockets inte
 Having the pcb sandwiched in between the display and microcontroller achieves around 6mm in thickness.
 
 ### Compromises
-While the goal of 8mm thick modular build was achieved, it is not without its compromises. 
-**PCB Layout:** To achieve the sandwiched layout, it sacrifices the reversable PCB layout that some custom keyboards have. 
+While the goal of 8mm thick modular build was achieved, it is not without its compromises.
+
+**PCB Layout:** To achieve the sandwiched layout, it sacrifices the reversable PCB layout that some custom keyboards have.
+
 **Battery Placement:** With the space in between the PCB and microcontroller gone, a dedicated space was needed for the battery. This was also a blessing in disguise since it allowed bigger battery capacity which provides longer runtime.
+
 **Dedicated Case:** Due to the tight constraints of this build, a dedicated case is required for this layout to work.
 
 <img alt="xavient cross section" width="100%" src="./docs/img/final.png">
