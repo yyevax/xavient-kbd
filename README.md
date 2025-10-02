@@ -25,7 +25,7 @@ The goal for this keyboard is to make a thin keyboard without sacrificing repair
 ## Keyboard Layout Comparisons
 The placement of the keys for this keyboard are loosely based on both the Crkbd (Corne) and Swoop Keyboards. The crkbd keyboard is one of the most popular keyboards in the space hence the layout for the microcontroller for this keyboard followes the one design in the Corne Keyboard for easier compatibility of existing softwares. The swoop keyboard was my introduction to the split mechanical keyboards which lead me to making various keyboard such as this. 
 
-`<img alt="keyboard layouts" width="100%" src="./docs/img/layout.png">`
+<img alt="keyboard layouts" width="100%" src="./docs/img/layout.png">
 
 ## The Whys and Hows
 
