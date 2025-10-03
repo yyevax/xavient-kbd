@@ -1,4 +1,3 @@
-https://tinyurl.com/Shopee2030Battery				
 
 > ⚠️ The case and this build guide is still a work in progress.
 
