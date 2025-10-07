@@ -86,6 +86,10 @@ While the goal of 8mm thick modular build was achieved, it is not without its co
 <img alt="xavient cross section" width="100%" src="./docs/img/final.png">
 
 ### Future Implementations
+**PCB Development:** The current pcb was developed for the possibility of adding a trackpoint, hence it requires some of the keys to use mill max sockets. The use of mill-max sockets also allowed the pcb to be complatible for MX, and LP switches from Gateron to Kailh. However, having the full flexibility being able to swap from various switches will add to the cost of the build significantly. A new board will be designed to address this issue. It will have Hot-swap sockets for both kailh low profile and MX switches. Gateron LP v3 are compatible with MX switch pin layout hence will reduce the cost further but with the same implementation. (This will lose the trackpoint functionality.)
+
+**Seeed Xiao Build:** The current keyboard layout uses the Nice!NanoV2/ProMicro microcontroller layout. The Seeed Xiao is one of the famous microcontrollers in the keyboard space that is in the middle of the nice!nanov2 and its clones price-wise. It will need some more time to build this keyboard with the same philisophy of the current build. Thin. Modular. Repairable. (This will lose the trackpoing functionality.)
+
 **Pointing Devices:** There are already implementations for pointing devices in various zmk keyboards, but these still remain experimental at this time, however the pcb already has a provision for a trackpoint. 
 
 Other pointing devices such as trackballs and trackpads will still need more time to develop.
