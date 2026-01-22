@@ -101,7 +101,7 @@ Other pointing devices such as trackballs and trackpads will still need more tim
 ## Notes
 **[Wired Build:](https://github.com/duanexavierbondad/xavient-kbd/tree/main/pcb/Wired)** This is still under development and untested. Proceed at your own risk.
 
-**[Software:](https://github.com/duanexavierbondad/zmk-config-xavien/tree/stable/xavient)** The software for this keyboard is available. You can also opt for the build with ZMK Studio [here](https://github.com/duanexavierbondad/zmk-config-xavien/tree/stable/xavient_zmk-studio).
+**[Software:](https://github.com/duanexavierbondad/zmk-config-xavien/tree/stable/xavient)** The software for this keyboard is available. Is uses colemak-dh on a 36 key layout. The 42 key layout is still on development. You can also opt for the build with ZMK Studio [here](https://github.com/duanexavierbondad/zmk-config-xavien/tree/stable/xavient_zmk-studio).
 <img alt="Xavient Keyboard Software Layout" width="100%" src="https://github.com/duanexavierbondad/zmk-config-xavien/blob/master/keymap-drawer/xavien-km.svg">
 
 ## Credits
