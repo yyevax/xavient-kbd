@@ -1,24 +1,30 @@
 (kicad_sch
-	(version 20231120)
+	(version 20260306)
 	(generator "eeschema")
-	(generator_version "8.0")
+	(generator_version "10.0")
 	(uuid "343b5715-a632-4781-b665-29ca1f143152")
 	(paper "A4")
 	(lib_symbols)
 	(sheet
 		(at -222.25 -80.01)
 		(size 53.34 78.74)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "b3a39990-09b3-4197-9259-4725bcaf57c2")
 		(property "Sheetname" "Right-Half"
 			(at -222.25 -80.7216 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28,6 +34,8 @@
 		)
 		(property "Sheetfile" "Right-Half.kicad_sch"
 			(at -222.25 -0.6854 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46,17 +54,23 @@
 	(sheet
 		(at -278.13 -80.01)
 		(size 53.34 78.74)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "c2e547fd-3044-45e1-a8a4-a2caeae83fff")
 		(property "Sheetname" "Left-Half"
 			(at -278.13 -80.7216 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -66,6 +80,8 @@
 		)
 		(property "Sheetfile" "Left Half.kicad_sch"
 			(at -278.13 -0.6854 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -86,4 +102,5 @@
 			(page "1")
 		)
 	)
+	(embedded_fonts no)
 )
