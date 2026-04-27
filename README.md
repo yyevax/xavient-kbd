@@ -20,7 +20,9 @@ The goal for this keyboard is to make a thin keyboard without sacrificing repair
 - **Thin Profile:** Achieved a 8mm thick keyboard by having a sandwiched layout for the controller and display.
 - **Upgradability:** Future expansion to a Trackpoint [WIP] (will take up one battery slot)
 
-
+## Versions
+**[Version 1](https://github.com/yyevax/xavient-kbd)** *Tested.* My Current build, This uses a combination of gateron low profile sockets and millmax sockets (for choc and high profile). 
+**[Version 2](https://github.com/yyevax/xavient-kbd/tree/version_2)** *Untested.* Proceed at your own risk although feedback is highly encouraged. This uses gateron hotswap and choc hotswap sockets.
 
 ## Keyboard Layout Comparisons
 The placement of the keys for this keyboard are loosely based on both the Crkbd (Corne) and Swoop Keyboards. The crkbd keyboard is one of the most popular keyboards in the space hence the layout for the microcontroller for this keyboard followes the one design in the Corne Keyboard for easier compatibility of existing softwares. The swoop keyboard was my introduction to the split mechanical keyboards which lead me to making various keyboard such as this. 
@@ -99,6 +101,8 @@ Other pointing devices such as trackballs and trackpads will still need more tim
 **Unibody Keyboard:** This will provide another layout for users to choose from. 
 
 ## Notes
+**[Version 2](https://github.com/yyevax/xavient-kbd/tree/version_2)** Untested. Proceed at your own risk although feedback is highly encouraged. 
+
 **[Wired Build:](https://github.com/duanexavierbondad/xavient-kbd/tree/main/pcb/Wired)** This is still under development and untested. Proceed at your own risk.
 
 **[Software:](https://github.com/duanexavierbondad/zmk-config-xavien/tree/stable/xavient)** The software for this keyboard is available. Is uses colemak-dh on a 36/42 key layout. You can find the 32 Key config files [here](https://github.com/yyevax/zmk-config-xavien/tree/stable/xavient) and the 42 Key config [here](https://github.com/yyevax/zmk-config-xavien/tree/stable/xavient3x6). You can also opt for the build with ZMK Studio [here](https://github.com/duanexavierbondad/zmk-config-xavien/tree/stable/xavient_zmk-studio).
