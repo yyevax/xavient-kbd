@@ -20,7 +20,10 @@ The goal for this keyboard is to make a thin keyboard without sacrificing repair
 - **Thin Profile:** Achieved a 8mm thick keyboard by having a sandwiched layout for the controller and display.
 - **Upgradability:** Future expansion to a Trackpoint [WIP] (will take up one battery slot)
 
-
+## Versions
+**[Version 1](https://github.com/yyevax/xavient-kbd)** *Tested.* My Current build, This uses a combination of gateron low profile sockets and millmax sockets (for choc and high profile). 
+**[Version 2](https://github.com/yyevax/xavient-kbd/tree/version_2)** *Untested.* Proceed at your own risk although feedback is highly encouraged. This uses gateron hotswap and choc hotswap sockets.
+**[Version 3](https://github.com/yyevax/xavient-kbd/tree/with_trackpoint)** *Under Develompent.* No updates as of yet. But planning on building this keyboard further to support a trackpoint.
 
 ## Keyboard Layout Comparisons
 The placement of the keys for this keyboard are loosely based on both the Crkbd (Corne) and Swoop Keyboards. The crkbd keyboard is one of the most popular keyboards in the space hence the layout for the microcontroller for this keyboard followes the one design in the Corne Keyboard for easier compatibility of existing softwares. The swoop keyboard was my introduction to the split mechanical keyboards which lead me to making various keyboard such as this. 
