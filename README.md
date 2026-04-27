@@ -22,7 +22,9 @@ The goal for this keyboard is to make a thin keyboard without sacrificing repair
 
 ## Versions
 **[Version 1](https://github.com/yyevax/xavient-kbd)** *Tested.* My Current build, This uses a combination of gateron low profile sockets and millmax sockets (for choc and high profile). 
+
 **[Version 2](https://github.com/yyevax/xavient-kbd/tree/version_2)** *Untested.* Proceed at your own risk although feedback is highly encouraged. This uses gateron hotswap and choc hotswap sockets.
+
 **[Version 3](https://github.com/yyevax/xavient-kbd/tree/with_trackpoint)** *Under Develompent.* No updates as of yet. But planning on building this keyboard further to support a trackpoint.
 
 
