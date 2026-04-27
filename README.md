@@ -20,6 +20,10 @@ The goal for this keyboard is to make a thin keyboard without sacrificing repair
 - **Thin Profile:** Achieved a 8mm thick keyboard by having a sandwiched layout for the controller and display.
 - **Upgradability:** Future expansion to a Trackpoint [WIP] (will take up one battery slot)
 
+## Versions
+**[Version 1](https://github.com/yyevax/xavient-kbd)** *Tested.* My Current build, This uses a combination of gateron low profile sockets and millmax sockets (for choc and high profile). 
+**[Version 2](https://github.com/yyevax/xavient-kbd/tree/version_2)** *Untested.* Proceed at your own risk although feedback is highly encouraged. This uses gateron hotswap and choc hotswap sockets.
+**[Version 3](https://github.com/yyevax/xavient-kbd/tree/with_trackpoint)** *Under Develompent.* No updates as of yet. But planning on building this keyboard further to support a trackpoint.
 
 
 ## Keyboard Layout Comparisons
@@ -49,10 +53,6 @@ During various iterations at building a keyboard the first things that I encount
 
 Xavient tries to combine the best features of both worlds into one. The solution is to use 7305  Millmax Sockets not just for key switches but for the controller and display as well. This saves space height-wise and adds a better space for bigger batteries. 
 
-## Versions
-**[Version 1](https://github.com/yyevax/xavient-kbd)** *Tested.* My Current build, This uses a combination of gateron low profile sockets and millmax sockets (for choc and high profile). 
-**[Version 2](https://github.com/yyevax/xavient-kbd/tree/version_2)** *Untested.* Proceed at your own risk although feedback is highly encouraged. This uses gateron hotswap and choc hotswap sockets.
-**[Version 3](https://github.com/yyevax/xavient-kbd/tree/with_trackpoint)** *Under Develompent.* No updates as of yet. But planning on building this keyboard further to support a trackpoint.
 
 ### Multi-Switch Compatibility
 There are a lot of mechanical switches in the space and choosing one sometimes is a daunting task. During my experimentation, I locked myself into soldering key switches. This effectively removed the option to try other switches and is a nightmare to repair. Having the option of what key switches to use is a pesonal preference and gives you an opportunity to explore various switches at little to no time.
