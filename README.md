@@ -107,7 +107,7 @@ Other pointing devices such as trackballs and trackpads will still need more tim
 
 **[Wired Build:](https://github.com/duanexavierbondad/xavient-kbd/tree/main/pcb/Wired)** This is still under development and untested. Proceed at your own risk.
 
-**[Software:](https://github.com/duanexavierbondad/zmk-config-xavien/tree/stable/xavient)** The software for this keyboard is available. Is uses colemak-dh on a 36/42 key layout. You can find the 32 Key config files [here](https://github.com/yyevax/zmk-config-xavien/tree/stable/xavient) and the 42 Key config [here](https://github.com/yyevax/zmk-config-xavien/tree/stable/xavient3x6). You can also opt for the build with ZMK Studio [here](https://github.com/duanexavierbondad/zmk-config-xavien/tree/stable/xavient_zmk-studio).
+**[Software:](https://github.com/duanexavierbondad/zmk-config-xavien/tree/stable/xavient)** The software for this keyboard is available. Is uses colemak-dh on a 36/42 key layout. You can find the 32 Key config files [here](https://github.com/yyevax/zmk-config-xavien/tree/stable/xavient) and the 42 Key config [here](https://github.com/yyevax/zmk-config-xavient/tree/stable/xavient3x6). You can also opt for the build with ZMK Studio [here](https://github.com/duanexavierbondad/zmk-config-xavien/tree/stable/xavient_zmk-studio).
 <img alt="Xavient Keyboard Software Layout" width="100%" src="https://github.com/duanexavierbondad/zmk-config-xavien/blob/master/keymap-drawer/xavien-km.svg">
 
 ## Credits
